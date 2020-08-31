@@ -1,2 +1,3 @@
 # Robot-Learning-CSE-610
-All projects for Robot Learning course opted in Master's Second Semester Program
+## Sensitivity Analysis
+Deep Neural Networks have achieved superior performance in various prediction tasks. But as the size of the network increases, they can be more vulnerable to adversarial examples or perturbations. Also, it could lead to sizing issues with a large network. We studied the effect of input modelling on the performance of deep neural networks. The effect of perturbations on the input of trained DenseNet network is studied and the observations are recorder. We analyzed the impact of input perturbation on the outputs by comparing it against a decent baseline system trained on CIFAR10 dataset. Analysis and bitmap representations were performed using PyTorch and summarized as achieved results.
